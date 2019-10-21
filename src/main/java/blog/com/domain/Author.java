@@ -18,7 +18,7 @@ public class Author implements Serializable {
     @Id
     @GeneratedValue(strategy = AUTO)
     private Long id;
-
+private Long woo;
     @Column(name = "password")
     private String password;
     @Column(name = "username", unique = true)
