@@ -1,4 +1,4 @@
-package blog.com.domain;
+package blog.com.domain.domain;
 
 import lombok.Data;
 import lombok.ToString;
